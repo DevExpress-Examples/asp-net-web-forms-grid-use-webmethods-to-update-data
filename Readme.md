@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to show the live data without refreshing the grid (using WebMethods)
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t530119/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to update data only for several (or all, if it is required) grid columns without refreshing the entire grid. The main idea is to create a custom DataItem template for the required columns and then update its data on the client side. The server-side values can be obtained without the grid callback by using <a href="https://msdn.microsoft.com/en-us/library/byxd99hx%28v=vs.90%29.aspx">WebMethods</a>. <br><br><em>See </em><strong><em>Implementation Details</em></strong><em> for more information. <br></em><br><strong>See also:</strong><br><a href="https://www.devexpress.com/Support/Center/p/E4326">How to display dynamic data within the ASPxGridView (Live Data) without full grid updating using the ASPxCallback control</a></p>
