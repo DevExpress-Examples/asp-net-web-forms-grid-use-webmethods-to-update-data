@@ -1,6 +1,6 @@
 # Grid View for ASP.NET Web Forms - How to use the WebMethod attribute to update data in particular grid columns
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t530119/)**
+**[[Run Online]](https://codecentral.devexpress.com/128535643/)**
 <!-- run online end -->
 
 This example demonstrates how to create data item templates and use the **WebMethod** attribute to update data in templated columns without refreshing the entire grid.
