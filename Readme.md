@@ -104,7 +104,7 @@ Follow the steps below:
 
 * [How to display dynamic data within the ASPxGridView (Live Data) without full grid updating using the ASPxCallback control](https://github.com/DevExpress-Examples/how-to-display-dynamic-data-within-the-aspxgridview-live-data-without-full-grid-updating-usi-e4326)
 <!-- feedback -->
-## Does This Example Address Your Development Requirements/Objectives?
+## Does this example address your development requirements/objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-use-webmethods-to-update-data&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-use-webmethods-to-update-data&~~~was_helpful=no)
 
